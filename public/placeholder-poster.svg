@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750" fill="none">
+  <rect width="500" height="750" fill="#16161f"/>
+  <circle cx="250" cy="330" r="70" stroke="#2d2d3f" stroke-width="8"/>
+  <path d="M225 295 L295 330 L225 365 Z" fill="#2d2d3f"/>
+  <text x="250" y="460" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" fill="#4a4a5e">No Poster</text>
+  <text x="250" y="495" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" fill="#3a3a4c">MovieVerse</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" fill="none">
+  <rect width="1280" height="720" fill="#11111a"/>
+  <circle cx="640" cy="330" r="80" stroke="#262638" stroke-width="8"/>
+  <path d="M612 288 L692 330 L612 372 Z" fill="#262638"/>
+  <text x="640" y="480" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#45455e">MovieVerse</text>
+</svg>
