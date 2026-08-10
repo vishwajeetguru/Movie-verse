@@ -2,6 +2,8 @@
 
 A modern, responsive, **frontend-only** Next.js 15 application that turns simple JSON files into a beautiful Netflix-style movie discovery and streaming experience.
 
+> 🚀 **Live demo:** https://movie-verse.vactorwp.workers.dev/
+
 - **Framework**: Next.js 15 (App Router) + React 19 + TypeScript
 - **Styling**: TailwindCSS + Shadcn-style UI primitives
 - **Animations**: Framer Motion
