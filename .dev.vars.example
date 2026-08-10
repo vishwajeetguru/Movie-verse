@@ -1,0 +1,5 @@
+# Local Cloudflare dev/secrets file.
+# Copy this to .dev.vars and fill in your real values before `npm run preview`.
+NEXT_PUBLIC_TMDB_API_KEY=your_tmdb_api_key_here
+NEXT_PUBLIC_TMDB_READ_ACCESS_TOKEN=your_tmdb_read_access_token_here
+NEXT_PUBLIC_SITE_URL=https://movie-verse.your-subdomain.workers.dev
